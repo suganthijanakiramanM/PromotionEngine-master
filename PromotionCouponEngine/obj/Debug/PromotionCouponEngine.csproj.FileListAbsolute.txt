@@ -1,0 +1,7 @@
+C:\Users\sjanakix\source\repos\PromotionCouponEngine\PromotionCouponEngine\bin\Debug\PromotionCouponEngine.exe.config
+C:\Users\sjanakix\source\repos\PromotionCouponEngine\PromotionCouponEngine\bin\Debug\PromotionCouponEngine.exe
+C:\Users\sjanakix\source\repos\PromotionCouponEngine\PromotionCouponEngine\bin\Debug\PromotionCouponEngine.pdb
+C:\Users\sjanakix\source\repos\PromotionCouponEngine\PromotionCouponEngine\obj\Debug\PromotionCouponEngine.csprojAssemblyReference.cache
+C:\Users\sjanakix\source\repos\PromotionCouponEngine\PromotionCouponEngine\obj\Debug\PromotionCouponEngine.csproj.CoreCompileInputs.cache
+C:\Users\sjanakix\source\repos\PromotionCouponEngine\PromotionCouponEngine\obj\Debug\PromotionCouponEngine.exe
+C:\Users\sjanakix\source\repos\PromotionCouponEngine\PromotionCouponEngine\obj\Debug\PromotionCouponEngine.pdb
